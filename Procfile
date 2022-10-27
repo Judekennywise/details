@@ -1,1 +1,1 @@
-web: gunicorn hmg9details.wsgi
+web: gunicorn hng9details.wsgi
