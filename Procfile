@@ -1,0 +1,1 @@
+web: gunicorn hmg9details.wsgi
